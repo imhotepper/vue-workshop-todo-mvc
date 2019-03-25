@@ -3,8 +3,8 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
-import './assets/css/base.css'
-import './assets/css/index.css'
+import 'todomvc-app-css/index.css'
+import 'todomvc-common/base.css'
 
 new Vue({
   render: h => h(App),

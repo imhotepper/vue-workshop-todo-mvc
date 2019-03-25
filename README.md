@@ -1,5 +1,8 @@
 # vue-todo
 
+This project is the starting point for the vue.js workshop. In order to start playing with it just follow this link to codesandbox website:
+[Open](https://cli.vuejs.org/config/)
+
 ## Project setup
 ```
 yarn install
@@ -14,16 +17,12 @@ yarn run serve
 ```
 yarn run build
 ```
-
+<!-- 
 ### Run your tests
 ```
 yarn run test
-```
+``` -->
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
+<!-- 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). -->
